@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ```text
 Week: 06 August, 2020 - 13 August, 2020
 
-Other        25 hrs 37 mins  ████████████████░░░░░░░░░   66.16 % 
-PHP          10 hrs          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-JavaScript   1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Text         1 hr 8 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-HTML         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other        26 hrs 42 mins  ████████████████░░░░░░░░░   66.34 % 
+PHP          10 hrs 35 mins  ██████░░░░░░░░░░░░░░░░░░░   26.32 % 
+Text         1 hr 13 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JavaScript   52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python       17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 <!--END_SECTION:waka-->
