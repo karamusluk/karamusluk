@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
+Week: 25 September, 2020 - 02 October, 2020
 
 Other        19 hrs 36 mins  █████████████▓░░░░░░░░░░░   54.53 % 
 PHP          12 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   33.56 % 
