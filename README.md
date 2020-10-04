@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ```text
 Week: 26 September, 2020 - 03 October, 2020
 
-Other        19 hrs 36 mins  █████████████▓░░░░░░░░░░░   54.53 % 
-PHP          12 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   33.56 % 
+Other        19 hrs 36 mins  █████████████▓░░░░░░░░░░░   54.54 % 
+PHP          12 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   33.55 % 
 JavaScript   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 Text         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 CSV          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
