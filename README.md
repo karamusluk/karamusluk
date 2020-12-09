@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ```text
 Week: 01 December, 2020 - 08 December, 2020
 
-Other        22 hrs 14 mins  ██████████████▓░░░░░░░░░░   59.06 % 
-PHP          14 hrs 54 mins  ██████████░░░░░░░░░░░░░░░   39.60 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other        21 hrs 8 mins   █████████████▓░░░░░░░░░░░   54.72 % 
+PHP          16 hrs 58 mins  ███████████░░░░░░░░░░░░░░   43.93 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
