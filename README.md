@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ```text
 Week: 18 December, 2020 - 25 December, 2020
 
-JSX          16 hrs 24 mins  ██████████░░░░░░░░░░░░░░░   40.50 % 
-JavaScript   11 hrs 36 mins  ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Other        7 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 % 
+JSX          16 hrs 24 mins  ██████████░░░░░░░░░░░░░░░   40.47 % 
+JavaScript   11 hrs 36 mins  ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Other        7 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 % 
 SCSS         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 PHP          1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
