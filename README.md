@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ```text
 Week: 25 December, 2020 - 01 January, 2021
 
-Other        19 hrs 58 mins  █████████████████░░░░░░░░   68.16 % 
-PHP          7 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
+Other        19 hrs 57 mins  █████████████████░░░░░░░░   68.14 % 
+PHP          7 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
 JavaScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
