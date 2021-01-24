@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ```text
 Week: 16 January, 2021 - 23 January, 2021
 
-PHP          18 hrs 53 mins  ███████████████████████▓░   94.55 % 
-JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+PHP          18 hrs 52 mins  ███████████████████████▓░   94.56 % 
+JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 SQL          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 Python       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
