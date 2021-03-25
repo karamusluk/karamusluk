@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
+Week: 17 March, 2021 - 24 March, 2021
 
 PHP          30 hrs 45 mins  ███████████████████▓░░░░░   78.71 % 
 JavaScript   6 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
