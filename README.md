@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 April, 2021 - 02 May, 2021
+
+PHP    2 mins          ███████████████████▓░░░░░   79.10 % 
 ```
 <!--END_SECTION:waka-->
 
