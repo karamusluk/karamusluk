@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 ```text
 Week: 10 May, 2021 - 17 May, 2021
 
-PHP          7 hrs 25 mins   █████████████████████▒░░░   85.00 % 
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-SQL          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+PHP          7 hrs 30 mins   ██████████████████████▒░░   88.83 % 
+JavaScript   54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 ```
 <!--END_SECTION:waka-->
 
