@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ```text
 Week: 09 September, 2021 - 15 September, 2021
 
-Other        15 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.19 % 
-PHP          13 hrs 28 mins  ███████████░░░░░░░░░░░░░░   43.95 % 
-JavaScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-SCSS         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other        15 hrs 54 mins  ████████████▓░░░░░░░░░░░░   51.23 % 
+PHP          11 hrs 59 mins  █████████▓░░░░░░░░░░░░░░░   38.62 % 
+JavaScript   2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 
