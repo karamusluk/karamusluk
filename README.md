@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 January, 2022 - 23 January, 2022
+
+Other            4 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.08 % 
+PHP              3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.25 % 
+SQL              30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
 
