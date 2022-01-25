@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ```text
 Week: 18 January, 2022 - 24 January, 2022
 
-Other            4 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.08 % 
-PHP              3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.25 % 
-SQL              30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Other            6 hrs 59 mins   █████████████▓░░░░░░░░░░░   55.33 % 
+PHP              5 hrs           ██████████░░░░░░░░░░░░░░░   39.66 % 
+SQL              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 <!--END_SECTION:waka-->
 
