@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ```text
 Week: 04 February, 2022 - 10 February, 2022
 
-PHP          18 hrs 47 mins  ███████████████░░░░░░░░░░   60.48 % 
-Other        11 hrs 11 mins  █████████░░░░░░░░░░░░░░░░   36.00 % 
-JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+PHP          19 hrs 19 mins  ████████████████▓░░░░░░░░   66.15 % 
+Other        8 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 % 
+JavaScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
 
