@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 21 hrs 32 mins
+
 PHP          20 hrs 6 mins   ██████████████████░░░░░░░   72.32 % 
 Other        6 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
 JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
