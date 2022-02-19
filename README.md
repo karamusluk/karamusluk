@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 29 hrs 24 mins
-
 PHP          27 hrs          ██████████████████████▓░░   91.13 % 
 JavaScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
