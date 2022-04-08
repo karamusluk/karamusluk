@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-PHP            2 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.43 %
-JSON           52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-SQL            41 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-CSV            13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PHP            1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.89 %
+JSON           52 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+SQL            41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+CSV            13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
