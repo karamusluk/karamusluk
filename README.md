@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
 PHP            1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.89 %
 JSON           52 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 %
