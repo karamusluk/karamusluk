@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-JSON   52 mins         ████████████▒░░░░░░░░░░░░   48.99 %
-SQL    41 mins         █████████▓░░░░░░░░░░░░░░░   38.83 %
-CSV    13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+JSON   14 mins         █████████████░░░░░░░░░░░░   52.01 %
+CSV    13 mins         ████████████░░░░░░░░░░░░░   47.99 %
 ```
 
 <!--END_SECTION:waka-->
