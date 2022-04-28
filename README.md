@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-JSON    18 mins         ██████████████████▒░░░░░░   73.79 %
-Bash    3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-Other   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Bash    3 mins          ██████████████▓░░░░░░░░░░   58.03 %
+Other   2 mins          ██████████▒░░░░░░░░░░░░░░   41.97 %
 ```
 
 <!--END_SECTION:waka-->
