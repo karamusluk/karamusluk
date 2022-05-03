@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
-
-Bash    3 mins          ██████████████▓░░░░░░░░░░   58.03 %
-Other   2 mins          ██████████▒░░░░░░░░░░░░░░   41.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
