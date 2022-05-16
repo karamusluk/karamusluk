@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
-
-Text    39 mins         ██████████████████▒░░░░░░   73.88 %
-Other   13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
