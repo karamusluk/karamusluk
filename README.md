@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
+From: 04 June 2022 - To: 11 June 2022
 
 SQL          2 hrs 25 mins   ████████████████████████▒   96.80 %
 JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
