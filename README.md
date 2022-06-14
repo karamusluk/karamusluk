@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
-SQL          3 hrs 22 mins   ████████████████████████▒   97.69 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+SQL          3 hrs 32 mins   ████████████████████████▒   97.80 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
