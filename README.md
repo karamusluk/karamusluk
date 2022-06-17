@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2022 - To: 16 June 2022
+From: 10 June 2022 - To: 17 June 2022
 
-SQL          2 hrs           ████████████████████████░   96.18 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+SQL   1 hr 7 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
