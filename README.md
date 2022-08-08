@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 August 2022 - To: 08 August 2022
+
+CSV    6 mins          ██████████████░░░░░░░░░░░   56.62 %
+JSON   5 mins          ███████████░░░░░░░░░░░░░░   43.38 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
