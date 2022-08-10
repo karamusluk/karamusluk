@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
+From: 03 August 2022 - To: 10 August 2022
 
 CSV    6 mins          ██████████████░░░░░░░░░░░   56.62 %
 JSON   5 mins          ███████████░░░░░░░░░░░░░░   43.38 %
