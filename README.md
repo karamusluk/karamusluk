@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 ```text
 From: 11 August 2022 - To: 18 August 2022
 
-JavaScript   1 hr 28 mins    █████████████████████████   100.00 %
+JavaScript   44 mins         █████████████████████████   100.00 %
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
