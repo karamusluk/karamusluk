@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 August 2022 - To: 06 September 2022
+
+PHP    52 mins         ████████████████████████░   95.71 %
+JSON   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
