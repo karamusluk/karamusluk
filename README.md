@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-PHP    24 mins         ███████████████████████░░   91.71 %
-JSON   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+PHP    24 mins         ██████████████▒░░░░░░░░░░   57.67 %
+JSON   18 mins         ██████████▓░░░░░░░░░░░░░░   42.33 %
 ```
 
 <!--END_SECTION:waka-->
