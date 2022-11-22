@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
-
-PHP     14 mins         ██████████████████████░░░   88.53 %
-JSON    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
