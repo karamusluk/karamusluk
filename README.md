@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
-
-PHP   40 mins         ███████████████████████▒░   93.85 %
-SQL   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
