@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Text   8 mins          ████████████████████░░░░░   80.28 %
-JSON   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Text   3 mins          ███████████████▒░░░░░░░░░   61.34 %
+JSON   2 mins          █████████▓░░░░░░░░░░░░░░░   38.66 %
 ```
 
 <!--END_SECTION:waka-->
