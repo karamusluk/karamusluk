@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
 SQL    21 mins         ██████████████████▓░░░░░░   74.94 %
 Text   7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
