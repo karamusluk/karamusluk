@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 13 July 2023
+From: 07 July 2023 - To: 14 July 2023
 
 PHP     25 mins         █████████████▓░░░░░░░░░░░   54.59 %
 Text    20 mins         ███████████▒░░░░░░░░░░░░░   44.94 %
