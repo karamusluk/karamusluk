@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
-PHP     25 mins         █████████████▓░░░░░░░░░░░   54.59 %
-Text    20 mins         ███████████▒░░░░░░░░░░░░░   44.94 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+PHP     25 mins         ████████████▒░░░░░░░░░░░░   49.58 %
+Text    20 mins         ██████████▒░░░░░░░░░░░░░░   40.81 %
+CSV     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
