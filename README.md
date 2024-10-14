@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-SQL    1 min           ███████████████▓░░░░░░░░░   63.17 %
-Text   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Bash   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-PHP    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
