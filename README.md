@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 05 November 2024 - To: 12 November 2024
 
-PHP    55 mins         ████████████████░░░░░░░░░   64.10 %
-CSV    20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-JSON   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Text   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+PHP    1 hr 15 mins    ███████████████░░░░░░░░░░   59.64 %
+CSV    34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+JSON   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Text   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
