@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-CSV      14 mins         ██████████████▓░░░░░░░░░░   58.31 %
-Python   10 mins         ██████████▒░░░░░░░░░░░░░░   41.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
