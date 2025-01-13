@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-PHP     1 hr 29 mins    ███████████████████████░░   92.53 %
-Other   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+PHP     1 hr 57 mins    ███████████████████████▓░   94.21 %
+Other   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
