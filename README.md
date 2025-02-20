@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-PHP          2 hrs 13 mins   ███████████████████░░░░░░   75.90 %
-JavaScript   28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-CSV          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+PHP   4 hrs 18 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
