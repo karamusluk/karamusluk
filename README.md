@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-PHP   14 hrs 38 mins  █████████████████████████   100.00 %
+PHP        14 hrs 38 mins  ███████████████████████░░   91.99 %
+Markdown   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
