@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
 PHP        14 hrs 38 mins  ███████████████████████░░   91.99 %
 Markdown   1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
