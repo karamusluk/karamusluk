@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-PHP                4 hrs 42 mins   ██████████████████████▓░░   91.01 %
-Text               27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Rich Text Format   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+PHP                3 hrs 30 mins   █████████████████████▓░░░   86.75 %
+Text               27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Other              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Rich Text Format   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
