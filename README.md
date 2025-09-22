@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2025 - To: 21 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-PHP     7 hrs 13 mins   ███████████████████████░░   91.77 %
-CSV     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Text    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP    6 hrs 23 mins   █████████████████████████   99.79 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
