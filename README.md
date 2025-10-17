@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-PHP        10 hrs 14 mins  ███████████████████▓░░░░░   78.73 %
-SQL        2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-CSV        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+PHP        12 hrs 49 mins  █████████████████████░░░░   84.07 %
+SQL        1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+CSV        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
