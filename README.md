@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-PHP             8 hrs           ██████████████░░░░░░░░░░░   55.76 %
-JavaScript      2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-YAML            1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-HTML            1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Text            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+PHP             7 hrs 12 mins   ████████████▒░░░░░░░░░░░░   48.99 %
+JavaScript      4 hrs 28 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+YAML            1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+HTML            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JSON            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
