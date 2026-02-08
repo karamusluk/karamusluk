@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 PHP           4 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.80 %
 JavaScript    4 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   36.18 %
