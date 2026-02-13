@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-PHP          4 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   46.05 %
-JavaScript   4 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.34 %
-SQL          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+PHP          4 hrs 24 mins   ████████████████▓░░░░░░░░   66.73 %
+JavaScript   56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+SQL          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Other        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
