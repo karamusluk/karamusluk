@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 14 April 2026
+From: 08 April 2026 - To: 15 April 2026
 
-PHP        4 hrs 14 mins         ███████████████████▒░░░░░   76.71 %
-YAML       35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-JSON       21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Markdown   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+PHP   1 hr 22 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
