@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-PHP   10 mins               █████████████▒░░░░░░░░░░░   53.38 %
-CSV   8 mins                ███████████▓░░░░░░░░░░░░░   46.62 %
+PHP   32 mins               ███████████████████▓░░░░░   78.78 %
+CSV   8 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
 ```
 
 <!--END_SECTION:waka-->
