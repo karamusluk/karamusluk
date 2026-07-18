@@ -29,7 +29,7 @@ jobs:
       - name: Generate light and dark cards
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_RANGE: last_7_days
+          WAKATIME_RANGE: last_30_days
           MAX_LANGUAGES: "8"
         run: python scripts/generate_wakatime_card.py
 
