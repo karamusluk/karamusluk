@@ -237,22 +237,21 @@ I use coding agents as part of a structured software engineering workflow—not 
 
 ## Weekly Development Activity
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 37 hrs 26 mins
-
-Java         13 hrs 37 mins        █████████░░░░░░░░░░░░░░░░   36.25 %
-TypeScript   10 hrs 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Markdown     5 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
-CSS          4 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JSON         44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Text         40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-SQL          39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-XML          16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-```
-
-<!--END_SECTION:waka-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg"
+    alt="Mustafa Culban's weekly WakaTime development activity"
+    width="100%"
+  />
+</picture>
 
 ---
 
