@@ -10,19 +10,26 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update WakaTime section
+    name: Update README with WakaTime
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Update README with WakaTime stats
+      - name: Update WakaTime section
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          REPOSITORY: karamusluk/karamusluk
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          SECTION_NAME: waka
+
           SHOW_TITLE: false
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
+          SHOW_MASKED_TIME: false
+          TIME_RANGE: last_30_days
           LANG_COUNT: 8
-          TIME_RANGE: last_7_days
+
           COMMIT_MESSAGE: "chore: update WakaTime stats"
