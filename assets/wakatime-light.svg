@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="218" viewBox="0 0 820 218" role="img" aria-labelledby="title desc">
+<title id="title">Weekly Development Activity</title>
+<desc id="desc">0 secs of coding activity during last week.</desc>
+
+<defs>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1F23281A" />
+  </filter>
+</defs>
+
+<style>
+  text {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .title { fill: #1F2328; font-size: 25px; font-weight: 700; }
+  .meta { fill: #656D76; font-size: 13px; font-weight: 500; }
+  .total { fill: #1F2328; font-size: 17px; font-weight: 650; }
+  .language { fill: #1F2328; font-size: 15px; font-weight: 600; }
+  .duration { fill: #656D76; font-size: 14px; }
+  .percent { fill: #656D76; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .empty { fill: #656D76; font-size: 15px; }
+</style>
+
+<rect x="12" y="12" width="796" height="194" rx="20"
+      fill="#FFFFFF" stroke="#D0D7DE" filter="url(#shadow)" />
+
+<text x="40" y="53" class="title">Weekly Development Activity</text>
+<text x="40" y="78" class="meta">last week</text>
+<text x="780" y="53" text-anchor="end" class="meta">TOTAL CODING TIME</text>
+<text x="780" y="78" text-anchor="end" class="total">0 secs</text>
+
+<line x1="40" y1="97" x2="780" y2="97" stroke="#D0D7DE" />
+
+<text x="40" y="146" class="empty">No coding activity found for this period.</text>
+</svg>
