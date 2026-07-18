@@ -1,0 +1,47 @@
+name: Generate WakaTime Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wakatime-card
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate light and dark cards
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_RANGE: last_7_days
+          MAX_LANGUAGES: "8"
+        run: python scripts/generate_wakatime_card.py
+
+      - name: Commit updated cards
+        run: |
+          if git diff --quiet -- assets/wakatime-light.svg assets/wakatime-dark.svg; then
+            echo "No card changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/wakatime-light.svg assets/wakatime-dark.svg
+          git commit -m "chore: update WakaTime cards"
+          git push
