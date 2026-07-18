@@ -240,15 +240,15 @@ I use coding agents as part of a structured software engineering workflow—not 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg?v=1"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=1"
   />
   <img
-    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg"
-    alt="Mustafa Culban's weekly WakaTime development activity"
+    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=1"
+    alt="Mustafa Culban's WakaTime development activity"
     width="100%"
   />
 </picture>
