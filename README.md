@@ -167,7 +167,7 @@ An AI judge for everyday disagreements, helping users present cases, collect dif
         and architecture through implementation and deployment.
       </p>
       <p>
-        <a href="https://devjoys.com">Explore the portfolio →</a>
+        <a href="https://cv.devjoys.com/projects">Explore the projects →</a>
       </p>
     </td>
   </tr>
