@@ -34,13 +34,13 @@ I am a senior software engineer with more than **10 years of backend development
 
 I specialize in scalable SaaS architecture, authentication systems, enterprise workflows, data-rich backend platforms, mobile applications, and AI-powered products.
 
-* Former **Enterprise Product & Growth Team Lead** at Jotform
-* Built systems serving **300K–400K daily active users**
-* Experienced in architecture, implementation, technical planning, code review, and production rollouts
-* Building and shipping independent SaaS, mobile, AI, IoT, and automation products through **DevJoys**
-* **Eligible for Germany’s Opportunity Card**
-* Planning relocation to the **Nürnberg region**
-* Open to senior backend and full-stack opportunities in Germany and remote-first teams
+- Former **Enterprise Product & Growth Team Lead** at Jotform
+- Built systems serving **300K–400K daily active users**
+- Experienced in architecture, implementation, technical planning, code review, and production rollouts
+- Building and shipping independent SaaS, mobile, AI, IoT, and automation products through **DevJoys**
+- **Eligible for Germany’s Opportunity Card**
+- Planning relocation to the **Nürnberg region**
+- Open to senior backend and full-stack opportunities in Germany and remote-first teams
 
 ---
 
@@ -71,12 +71,12 @@ I specialize in scalable SaaS architecture, authentication systems, enterprise w
 
 During my time at **Jotform**, I contributed to and led the development of:
 
-* A staged **Two-Factor Authentication** platform serving 300K–400K daily active users
-* Core backend architecture for **Jotform Teams**
-* Enterprise **SMTP OAuth2** integrations for Google and Microsoft
-* CRM, customer journey, scoring, task management, and notification systems
-* Global search, asset management, access control, and enterprise growth tooling
-* AI-assisted lead scoring based on product usage and behavioral signals
+- A staged **Two-Factor Authentication** platform serving 300K–400K daily active users
+- Core backend architecture for **Jotform Teams**
+- Enterprise **SMTP OAuth2** integrations for Google and Microsoft
+- CRM, customer journey, scoring, task management, and notification systems
+- Global search, asset management, access control, and enterprise growth tooling
+- AI-assisted lead scoring based on product usage and behavioral signals
 
 My responsibilities included system design, backend development, technical planning, code review, production rollout, cross-functional coordination, and team leadership.
 
@@ -84,62 +84,18 @@ My responsibilities included system design, backend development, technical plann
 
 ## Featured Products
 
-### Tande
-
-An AI-powered connection and personal growth application combining personality-based discovery, conversation coaching, and private communication.
-
-`React Native` `Expo` `TypeScript` `Supabase` `OpenAI` `Claude`
-
-* AI companion for daily reflection and personal growth
-* Personality and vibe-based discovery
-* Conversation coaching for writing replies, checking conversational tone, and improving communication
-* Real-time messaging with end-to-end encryption
-* View-once media and privacy-focused communication
-* Cross-platform mobile architecture with multilingual support
-
----
-
-### JuriSpy — Kim Haklı?
-
-An AI judge for everyday disagreements, helping users present cases, collect different perspectives, and receive structured AI-generated verdicts.
-
-`React Native` `Expo` `TypeScript` `Supabase` `Node.js` `OpenAI`
-
-* AI-generated verdicts and case summaries
-* User-submitted stories, evidence, testimonies, and votes
-* Appeal flows for disputed outcomes
-* Shareable verdict cards
-* Authentication, usage limits, and premium access
-* Production application available through the App Store
-
----
-
 ### Metraj AI
 
 An AI-powered architectural visualization platform that transforms uploaded technical drawings and plans into complete visual project presentations.
 
 `AI Vision` `Generative Images` `Generative Video` `CAD Processing` `Automation`
 
-* Accepts architectural drawings, floor plans, and technical project files
-* Interprets spaces, walls, rooms, doors, windows, and project structure
-* Produces project visuals and realistic rendered images
-* Generates multiple visual styles and presentation alternatives
-* Creates promotional and walkthrough-style videos from the generated project
-* Takes a project from the original drawing to presentation-ready images and video
-
----
-
-### TwoUnlok
-
-A product focused on private two-person experiences, shared interactions, and progressively unlocked digital content.
-
-`TypeScript` `React` `Supabase` `Product Design`
-
-* Private experiences designed around two connected users
-* Progressive content and interaction unlocking
-* Secure user access and account-based flows
-* Real-time shared product experiences
-* Built as an independent consumer product through DevJoys
+- Accepts architectural drawings, floor plans, and technical project files
+- Interprets spaces, walls, rooms, doors, windows, and project structure
+- Produces realistic project images and visual presentation alternatives
+- Generates multiple styles and presentation-ready outputs
+- Creates promotional and walkthrough-style videos from the generated project
+- Takes a project from the original drawing to final images and video
 
 ---
 
@@ -149,29 +105,73 @@ A complete drone operations and fleet-management platform for professional and c
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Leaflet` `Expo`
 
-* Drone inventory with technical specifications and flight history
-* Mission planning with maps, checklists, and post-mission analysis
-* Crew and pilot management
-* Pilot-license and certification tracking
-* Maintenance records and compliance documents
-* Expiration reminders for licenses, certifications, and documents
-* Currently serving paying customers
+- Drone inventory with technical specifications and flight history
+- Mission planning with maps, checklists, and post-mission analysis
+- Crew and pilot management
+- Pilot-license and certification tracking
+- Maintenance records and compliance documents
+- Expiration reminders for licenses, certifications, and documents
+- Built for real operational workflows and paying customers
 
 ---
 
-### Nuohaus
+### JuriSpy — Kim Haklı?
 
-A connected smart-home platform for controlling devices, monitoring home status, and creating intelligent automation flows.
+An AI judge for everyday disagreements, helping users present cases, collect different perspectives, and receive structured AI-generated verdicts.
 
-`IoT` `Mobile` `Backend APIs` `Real-Time Systems` `Device Communication`
+`React Native` `Expo` `TypeScript` `Supabase` `Edge Functions` `LLMs`
 
-* Centralized control for connected home devices
-* Mobile application for remote monitoring and control
-* Real-time device state and status updates
-* User accounts, homes, rooms, devices, and access management
-* Automation flows based on schedules, events, and device states
-* Communication layer between software services and physical hardware
-* Designed as an extensible foundation for additional smart-home integrations
+- AI-generated verdicts and structured case summaries
+- User-submitted stories, evidence, testimonies, and votes
+- Appeal flows for disputed outcomes
+- Shareable verdict cards
+- Authentication, usage limits, and premium access
+- Production application available on the App Store
+
+---
+
+## Other Products
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tande</h3>
+      <p>
+        A privacy-focused React Native application with AI-powered personal experiences,
+        real-time communication, multilingual support, and secure backend architecture.
+      </p>
+      <p><code>React Native</code> <code>Expo</code> <code>Supabase</code> <code>OpenRouter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TwoUnlok</h3>
+      <p>
+        A private two-person experience centered around shared interactions,
+        progressive unlocking, and account-based digital content.
+      </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nuohaus</h3>
+      <p>
+        An extensible smart-home platform for controlling connected devices,
+        monitoring home status, and creating schedule- and event-based automations.
+      </p>
+      <p><code>IoT</code> <code>Mobile</code> <code>Real-Time Systems</code> <code>Backend APIs</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More through DevJoys</h3>
+      <p>
+        Independent SaaS, mobile, automation, and AI products built from product discovery
+        and architecture through implementation and deployment.
+      </p>
+      <p>
+        <a href="https://devjoys.com">Explore the portfolio →</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -179,12 +179,12 @@ A connected smart-home platform for controlling devices, monitoring home status,
 
 I use coding agents as part of a structured software engineering workflow—not simply as autocomplete tools.
 
-* **Claude Code** for architecture, implementation, and repository-wide refactoring
-* **OpenAI Codex** for parallel development, debugging, testing, and code review
-* **Cursor** for context-aware development and rapid product iteration
-* **Git worktrees and tmux** for coordinating multiple coding agents
-* Multiple agents working in parallel with isolated branches and responsibilities
-* Human-reviewed plans, automated verification, and controlled integration
+- **Claude Code** for architecture, implementation, and repository-wide refactoring
+- **OpenAI Codex** for parallel development, debugging, testing, and code review
+- **Cursor** for context-aware development and rapid product iteration
+- **Git worktrees and tmux** for coordinating multiple coding agents
+- Multiple agents working in parallel with isolated branches and responsibilities
+- Human-reviewed plans, automated verification, and controlled integration
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
@@ -235,23 +235,27 @@ I use coding agents as part of a structured software engineering workflow—not 
 
 ---
 
-## Weekly Development Activity
+## Development Activity
+
+<div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg?v=29646318276"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg?v=1"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=29646318276"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=1"
   />
   <img
-    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=29646318276"
+    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=1"
     alt="Mustafa Culban's WakaTime development activity"
-    width="100%"
+    width="75%"
   />
 </picture>
+
+</div>
 
 ---
 
