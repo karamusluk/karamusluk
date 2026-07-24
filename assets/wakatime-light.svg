@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="624" viewBox="0 0 820 624" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="218" viewBox="0 0 820 218" role="img" aria-labelledby="title desc">
 <title id="title">Weekly Development Activity</title>
-<desc id="desc">95 hrs 59 mins of coding activity during last month.</desc>
+<desc id="desc">No activity of coding activity during last month.</desc>
 
 <defs>
   <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
@@ -21,71 +21,15 @@
   .empty { fill: #656D76; font-size: 15px; }
 </style>
 
-<rect x="12" y="12" width="796" height="600" rx="20"
+<rect x="12" y="12" width="796" height="194" rx="20"
       fill="#FFFFFF" stroke="#D0D7DE" filter="url(#shadow)" />
 
 <text x="40" y="53" class="title">Weekly Development Activity</text>
 <text x="40" y="78" class="meta">last month</text>
 <text x="780" y="53" text-anchor="end" class="meta">TOTAL CODING TIME</text>
-<text x="780" y="78" text-anchor="end" class="total">95 hrs 59 mins</text>
+<text x="780" y="78" text-anchor="end" class="total">No activity</text>
 
 <line x1="40" y1="97" x2="780" y2="97" stroke="#D0D7DE" />
 
-
-<circle cx="43" cy="134" r="6" fill="#ED8B00" />
-<text x="60" y="139" class="language">Java</text>
-<text x="258" y="139" text-anchor="end" class="duration">28 hrs 46 mins</text>
-<rect x="310" y="123" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="123" width="116.9" height="16" rx="8" fill="#ED8B00" />
-<text x="778" y="139" text-anchor="end" class="percent">29.98%</text>
-
-<circle cx="43" cy="192" r="6" fill="#3178C6" />
-<text x="60" y="197" class="language">TypeScript</text>
-<text x="258" y="197" text-anchor="end" class="duration">20 hrs 30 mins</text>
-<rect x="310" y="181" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="181" width="83.3" height="16" rx="8" fill="#3178C6" />
-<text x="778" y="197" text-anchor="end" class="percent">21.37%</text>
-
-<circle cx="43" cy="250" r="6" fill="#5B6B7A" />
-<text x="60" y="255" class="language">Markdown</text>
-<text x="258" y="255" text-anchor="end" class="duration">18 hrs 36 mins</text>
-<rect x="310" y="239" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="239" width="75.6" height="16" rx="8" fill="#5B6B7A" />
-<text x="778" y="255" text-anchor="end" class="percent">19.38%</text>
-
-<circle cx="43" cy="308" r="6" fill="#F59E0B" />
-<text x="60" y="313" class="language">Other</text>
-<text x="258" y="313" text-anchor="end" class="duration">7 hrs 49 mins</text>
-<rect x="310" y="297" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="297" width="31.8" height="16" rx="8" fill="#F59E0B" />
-<text x="778" y="313" text-anchor="end" class="percent">08.16%</text>
-
-<circle cx="43" cy="366" r="6" fill="#663399" />
-<text x="60" y="371" class="language">CSS</text>
-<text x="258" y="371" text-anchor="end" class="duration">6 hrs 47 mins</text>
-<rect x="310" y="355" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="355" width="27.6" height="16" rx="8" fill="#663399" />
-<text x="778" y="371" text-anchor="end" class="percent">07.07%</text>
-
-<circle cx="43" cy="424" r="6" fill="#8A8A8A" />
-<text x="60" y="429" class="language">JSON</text>
-<text x="258" y="429" text-anchor="end" class="duration">4 hrs 50 mins</text>
-<rect x="310" y="413" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="413" width="19.7" height="16" rx="8" fill="#8A8A8A" />
-<text x="778" y="429" text-anchor="end" class="percent">05.05%</text>
-
-<circle cx="43" cy="482" r="6" fill="#CB171E" />
-<text x="60" y="487" class="language">YAML</text>
-<text x="258" y="487" text-anchor="end" class="duration">2 hrs 30 mins</text>
-<rect x="310" y="471" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="471" width="10.2" height="16" rx="8" fill="#CB171E" />
-<text x="778" y="487" text-anchor="end" class="percent">02.62%</text>
-
-<circle cx="43" cy="540" r="6" fill="#F7DF1E" />
-<text x="60" y="545" class="language">JavaScript</text>
-<text x="258" y="545" text-anchor="end" class="duration">1 hr 56 mins</text>
-<rect x="310" y="529" width="390" height="16" rx="8" fill="#EAEFF4" />
-<rect x="310" y="529" width="7.9" height="16" rx="8" fill="#F7DF1E" />
-<text x="778" y="545" text-anchor="end" class="percent">02.02%</text>
-
+<text x="40" y="146" class="empty">No coding activity found for this period.</text>
 </svg>
