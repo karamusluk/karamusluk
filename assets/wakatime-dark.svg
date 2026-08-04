@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="624" viewBox="0 0 820 624" role="img" aria-labelledby="title desc">
 <title id="title">Weekly Development Activity</title>
-<desc id="desc">132 hrs 25 mins of coding activity during last month.</desc>
+<desc id="desc">127 hrs 12 mins of coding activity during last month.</desc>
 
 <defs>
   <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
@@ -27,65 +27,65 @@
 <text x="40" y="53" class="title">Weekly Development Activity</text>
 <text x="40" y="78" class="meta">last month</text>
 <text x="780" y="53" text-anchor="end" class="meta">TOTAL CODING TIME</text>
-<text x="780" y="78" text-anchor="end" class="total">132 hrs 25 mins</text>
+<text x="780" y="78" text-anchor="end" class="total">127 hrs 12 mins</text>
 
 <line x1="40" y1="97" x2="780" y2="97" stroke="#30363D" />
 
 
 <circle cx="43" cy="134" r="6" fill="#ED8B00" />
 <text x="60" y="139" class="language">Java</text>
-<text x="258" y="139" text-anchor="end" class="duration">41 hrs 20 mins</text>
+<text x="258" y="139" text-anchor="end" class="duration">39 hrs 29 mins</text>
 <rect x="310" y="123" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="123" width="121.8" height="16" rx="8" fill="#ED8B00" />
-<text x="778" y="139" text-anchor="end" class="percent">31.22%</text>
+<rect x="310" y="123" width="121.1" height="16" rx="8" fill="#ED8B00" />
+<text x="778" y="139" text-anchor="end" class="percent">31.04%</text>
 
-<circle cx="43" cy="192" r="6" fill="#5B6B7A" />
-<text x="60" y="197" class="language">Markdown</text>
-<text x="258" y="197" text-anchor="end" class="duration">25 hrs 35 mins</text>
+<circle cx="43" cy="192" r="6" fill="#3178C6" />
+<text x="60" y="197" class="language">TypeScript</text>
+<text x="258" y="197" text-anchor="end" class="duration">24 hrs 18 mins</text>
 <rect x="310" y="181" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="181" width="75.4" height="16" rx="8" fill="#5B6B7A" />
-<text x="778" y="197" text-anchor="end" class="percent">19.33%</text>
+<rect x="310" y="181" width="74.5" height="16" rx="8" fill="#3178C6" />
+<text x="778" y="197" text-anchor="end" class="percent">19.10%</text>
 
-<circle cx="43" cy="250" r="6" fill="#3178C6" />
-<text x="60" y="255" class="language">TypeScript</text>
-<text x="258" y="255" text-anchor="end" class="duration">25 hrs 6 mins</text>
+<circle cx="43" cy="250" r="6" fill="#5B6B7A" />
+<text x="60" y="255" class="language">Markdown</text>
+<text x="258" y="255" text-anchor="end" class="duration">23 hrs 39 mins</text>
 <rect x="310" y="239" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="239" width="73.9" height="16" rx="8" fill="#3178C6" />
-<text x="778" y="255" text-anchor="end" class="percent">18.96%</text>
+<rect x="310" y="239" width="72.5" height="16" rx="8" fill="#5B6B7A" />
+<text x="778" y="255" text-anchor="end" class="percent">18.59%</text>
 
 <circle cx="43" cy="308" r="6" fill="#F59E0B" />
 <text x="60" y="313" class="language">Other</text>
 <text x="258" y="313" text-anchor="end" class="duration">16 hrs 20 mins</text>
 <rect x="310" y="297" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="297" width="48.2" height="16" rx="8" fill="#F59E0B" />
-<text x="778" y="313" text-anchor="end" class="percent">12.35%</text>
+<rect x="310" y="297" width="50.1" height="16" rx="8" fill="#F59E0B" />
+<text x="778" y="313" text-anchor="end" class="percent">12.85%</text>
 
 <circle cx="43" cy="366" r="6" fill="#8A8A8A" />
 <text x="60" y="371" class="language">JSON</text>
 <text x="258" y="371" text-anchor="end" class="duration">5 hrs 39 mins</text>
 <rect x="310" y="355" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="355" width="16.7" height="16" rx="8" fill="#8A8A8A" />
-<text x="778" y="371" text-anchor="end" class="percent">04.27%</text>
+<rect x="310" y="355" width="17.4" height="16" rx="8" fill="#8A8A8A" />
+<text x="778" y="371" text-anchor="end" class="percent">04.45%</text>
 
 <circle cx="43" cy="424" r="6" fill="#663399" />
 <text x="60" y="429" class="language">CSS</text>
-<text x="258" y="429" text-anchor="end" class="duration">4 hrs 47 mins</text>
+<text x="258" y="429" text-anchor="end" class="duration">4 hrs 29 mins</text>
 <rect x="310" y="413" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="413" width="14.1" height="16" rx="8" fill="#663399" />
-<text x="778" y="429" text-anchor="end" class="percent">03.62%</text>
+<rect x="310" y="413" width="13.8" height="16" rx="8" fill="#663399" />
+<text x="778" y="429" text-anchor="end" class="percent">03.53%</text>
 
 <circle cx="43" cy="482" r="6" fill="#CB171E" />
 <text x="60" y="487" class="language">YAML</text>
-<text x="258" y="487" text-anchor="end" class="duration">3 hrs 28 mins</text>
+<text x="258" y="487" text-anchor="end" class="duration">3 hrs 27 mins</text>
 <rect x="310" y="471" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="471" width="10.3" height="16" rx="8" fill="#CB171E" />
-<text x="778" y="487" text-anchor="end" class="percent">02.63%</text>
+<rect x="310" y="471" width="10.6" height="16" rx="8" fill="#CB171E" />
+<text x="778" y="487" text-anchor="end" class="percent">02.72%</text>
 
 <circle cx="43" cy="540" r="6" fill="#336791" />
 <text x="60" y="545" class="language">SQL</text>
 <text x="258" y="545" text-anchor="end" class="duration">3 hrs 21 mins</text>
 <rect x="310" y="529" width="390" height="16" rx="8" fill="#21262D" />
-<rect x="310" y="529" width="9.9" height="16" rx="8" fill="#336791" />
-<text x="778" y="545" text-anchor="end" class="percent">02.54%</text>
+<rect x="310" y="529" width="10.3" height="16" rx="8" fill="#336791" />
+<text x="778" y="545" text-anchor="end" class="percent">02.64%</text>
 
 </svg>
