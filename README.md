@@ -242,14 +242,14 @@ I use coding agents as part of a structured software engineering workflow—not 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg?v=34202906135"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-dark.svg?v=34327801688"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=34202906135"
+    srcset="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=34327801688"
   />
   <img
-    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=34202906135"
+    src="https://raw.githubusercontent.com/karamusluk/karamusluk/master/assets/wakatime-light.svg?v=34327801688"
     alt="Mustafa Culban's WakaTime development activity"
     width="75%"
   />
