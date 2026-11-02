@@ -1,3 +1,4 @@
+
 name: Generate WakaTime Cards
 
 on:
@@ -33,7 +34,7 @@ jobs:
 
       - name: Generate light and dark cards
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_ACCESS_TOKEN: ${{ secrets.WAKATIME_ACCESS_TOKEN }}
           WAKATIME_RANGE: last_30_days
           MAX_LANGUAGES: "8"
         run: python scripts/generate_wakatime_card.py
@@ -57,22 +58,21 @@ jobs:
 
           replacements = {
               "wakatime-dark.svg": (
-                  rf"(wakatime-dark\.svg)(?:\?v=[^\"'\s>]*)?"
+                  r'(wakatime-dark\.svg)(?:\?v=[^"\'\s>]*)?'
               ),
               "wakatime-light.svg": (
-                  rf"(wakatime-light\.svg)(?:\?v=[^\"'\s>]*)?"
+                  r'(wakatime-light\.svg)(?:\?v=[^"\'\s>]*)?'
               ),
           }
 
           for filename, pattern in replacements.items():
               content = re.sub(
                   pattern,
-                  rf"\1?v={version}",
+                  lambda match: f"{match.group(1)}?v={version}",
                   content,
               )
 
           path.write_text(content, encoding="utf-8")
-
           print(f"README cache version updated to {version}")
           PY
 
