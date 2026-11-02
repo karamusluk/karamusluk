@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import base64
 import html
 import json
 import os
@@ -11,7 +10,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-API_URL = "https://wakatime.com/api/v1/users/current/stats/{range}"
+API_URL = "https://api.wakatime.com/api/v1/users/current/stats/{range}"
 OUTPUT_DIR = Path("assets")
 
 LANGUAGE_COLORS = {
@@ -61,24 +60,29 @@ THEMES = {
     },
 }
 
-def fetch_stats(api_key: str, time_range: str) -> dict[str, Any]:
-    token = base64.b64encode(f"{api_key}:".encode()).decode()
+
+def fetch_stats(access_token: str, time_range: str) -> dict[str, Any]:
     request = urllib.request.Request(
         API_URL.format(range=time_range),
         headers={
-            "Authorization": f"Basic {token}",
+            "Authorization": f"Bearer {access_token}",
             "Accept": "application/json",
             "User-Agent": "karamusluk-wakatime-svg-card/1.0",
         },
     )
+
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
             return json.load(response)
     except urllib.error.HTTPError as exc:
         body = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"WakaTime API returned HTTP {exc.code}: {body}") from exc
+        raise RuntimeError(
+            f"WakaTime API returned HTTP {exc.code}: {body}"
+        ) from exc
     except urllib.error.URLError as exc:
-        raise RuntimeError(f"Could not reach WakaTime API: {exc.reason}") from exc
+        raise RuntimeError(
+            f"Could not reach WakaTime API: {exc.reason}"
+        ) from exc
 
 def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
@@ -175,14 +179,14 @@ def build_svg(data: dict[str, Any], theme_name: str, max_languages: int) -> str:
 '''
 
 def main() -> int:
-    api_key = os.getenv("WAKATIME_API_KEY", "").strip()
-    if not api_key:
-        print("WAKATIME_API_KEY is not set.", file=sys.stderr)
+    access_token = os.getenv("WAKATIME_ACCESS_TOKEN", "").strip()
+    if not access_token:
+        print("WAKATIME_ACCESS_TOKEN is not set.", file=sys.stderr)
         return 1
-
+    
     time_range = os.getenv("WAKATIME_RANGE", "last_7_days").strip()
     max_languages = int(os.getenv("MAX_LANGUAGES", "8"))
-    payload = fetch_stats(api_key, time_range)
+    payload = fetch_stats(access_token, time_range)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     for theme in ("light", "dark"):
